@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahiroQwQ
+- 👋 Hi, I’m @Jiu_Mao
 - 👀 I’m interested in computer graphics
 - 🌱 I’m currently learning Soochow University
 - 💞️ I’m looking to collaborate on myself
