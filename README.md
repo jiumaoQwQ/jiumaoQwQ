@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jiu_Mao
 - 👀 I’m interested in computer graphics
-- 🌱 I’m currently learning Physical based simulation and animation
+- 🌱 I’m currently learning physical based simulation and animation
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me 714962994@qq.com
 
